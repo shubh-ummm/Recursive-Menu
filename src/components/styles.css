@@ -1,0 +1,4 @@
+.MenuList-Container{
+    display: flex;
+    gap: 40px;
+}
